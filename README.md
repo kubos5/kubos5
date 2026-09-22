@@ -1,26 +1,26 @@
-### Hi there!!
+### hi there!!
 
-I'm a 14 year old student who lives in Italy
+i'm a 14 year old student who lives in Italy
 
 
 
-I like computers and coding in general. I code stuff for fun, and when I'm proud of something, I'll put it here!
+i like computers and coding in general. i code stuff for fun, and when i'm proud of something, i'll put it here!
 
-I'm NOT very active on Github, so don't expect a response immediately...
-(also why would you want to contact me I have like 1 repo)
+i'm NOT very active on Github, so don't expect a response immediately...
+(also why would you want to contact me I have like 3 repos)
 
-### About me
+### about me
 
-Things I like doing:
+things I like doing:
 - coding
 - eating
 - sleeping
 - playing video games
 
-Things I DON'T like doing:
+things I DON'T like doing:
 - writing READMEs about myself
 
-### Contact me
+### contact me
 Please don't... but if you have to, you can write to `romeo.ca1211@gmail.com`.
 
 <!--
