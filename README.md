@@ -1,39 +1,17 @@
-### hi there!!
+<div align="center">
 
-i'm a 14 year old student who lives in Italy
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="hey!! i&#x27;m kubos5"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="abt me"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-i like computers and coding in general. i code stuff for fun, and when i'm proud of something, i'll put it here!
+<a href="https://github.com/kubos5/BCW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bcw-dark.svg"><img src="assets/project-bcw-light.svg" width="49%" alt="BCW"></picture></a>&nbsp;<a href="https://github.com/kubos5/spotr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spotr-dark.svg"><img src="assets/project-spotr-light.svg" width="49%" alt="spotr"></picture></a>
 
-i'm NOT very active on Github, so don't expect a response immediately...
-(also why would you want to contact me I have like 3 repos)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="what i use"></picture>
 
-### about me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="gh activity"></picture>
 
-things I like doing:
-- coding
-- eating
-- sleeping
-- playing video games
+<a href="https://metawka.github.io/expressive-profile/?from=kubos5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-things I DON'T like doing:
-- writing READMEs about myself
-
-### contact me
-please don't... but if you have to, you can write to `romeo.ca1211@gmail.com`
-
-<!--
-**kubos5/kubos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

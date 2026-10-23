@@ -1,7 +1,7 @@
 {
- "key": "c0ec612",
+ "key": "99bdfa83",
  "stars": 6,
- "contributions": 194,
+ "contributions": 195,
  "repos": 11,
  "followers": 1,
  "languages": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 4,
     "day": 23,
     "today": true
    },
@@ -167,30 +167,12 @@
    "topics": []
   },
   {
-   "name": "BetterNotes",
-   "url": "https://github.com/mikqsdev/BetterNotes",
-   "text": "A native iPadOS app made in Swift to help students taking notes easier without distractions.",
+   "name": "BCW-web",
+   "url": "https://github.com/kubos5/BCW-web",
+   "text": "Un migliore client web per Classeviva",
    "fork": false,
    "stars": 2,
-   "language": "Swift",
-   "topics": []
-  },
-  {
-   "name": "omarchy-drawer",
-   "url": "https://github.com/kubos5/omarchy-drawer",
-   "text": "Plugin drawer for the Omarchy menu bar",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "omarchy-home-assistant",
-   "url": "https://github.com/kubos5/omarchy-home-assistant",
-   "text": "Home Assistant in the Omarchy bar",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
+   "language": "JavaScript",
    "topics": []
   },
   {
