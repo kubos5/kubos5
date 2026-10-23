@@ -1,0 +1,307 @@
+{
+ "key": "c0ec612",
+ "stars": 6,
+ "contributions": 194,
+ "repos": 11,
+ "followers": 1,
+ "languages": [
+  [
+   "Swift",
+   1766489
+  ],
+  [
+   "JavaScript",
+   740506
+  ],
+  [
+   "Rust",
+   657917
+  ],
+  [
+   "CSS",
+   146336
+  ],
+  [
+   "QML",
+   122496
+  ],
+  [
+   "Python",
+   12785
+  ],
+  [
+   "Ruby",
+   2385
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 17,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 14,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 8,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 14
+ },
+ "pins": [
+  {
+   "name": "spotr",
+   "url": "https://github.com/kubos5/spotr",
+   "text": "A better Spotify client, for the terminal.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "BCW",
+   "url": "https://github.com/kubos5/BCW",
+   "text": "[🇮🇹] Classeviva, in Material Design nativo iOS",
+   "fork": false,
+   "stars": 3,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "BetterNotes",
+   "url": "https://github.com/mikqsdev/BetterNotes",
+   "text": "A native iPadOS app made in Swift to help students taking notes easier without distractions.",
+   "fork": false,
+   "stars": 2,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "omarchy-drawer",
+   "url": "https://github.com/kubos5/omarchy-drawer",
+   "text": "Plugin drawer for the Omarchy menu bar",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "omarchy-home-assistant",
+   "url": "https://github.com/kubos5/omarchy-home-assistant",
+   "text": "Home Assistant in the Omarchy bar",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "walls",
+   "url": "https://github.com/kubos5/walls",
+   "text": "wallpapers",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "BCW",
+   "url": "https://github.com/kubos5/BCW",
+   "text": "[🇮🇹] Classeviva, in Material Design nativo iOS",
+   "fork": false,
+   "stars": 3,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "BCW-web",
+   "url": "https://github.com/kubos5/BCW-web",
+   "text": "Un migliore client web per Classeviva",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "BCW-api",
+   "url": "https://github.com/kubos5/BCW-api",
+   "text": "API per BCW, una migliore interfaccia per Classeviva",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "BCW-legacy",
+   "url": "https://github.com/kubos5/BCW-legacy",
+   "text": "Copia di BCW (kubos5/BCW) pre-redesign, per motivi di preservazione",
+   "fork": false,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "xtool-gui",
+   "url": "https://github.com/kubos5/xtool-gui",
+   "text": "A GUI interface for Xtool",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "homebrew-tap",
+   "url": "https://github.com/kubos5/homebrew-tap",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Ruby",
+   "topics": []
+  },
+  {
+   "name": "spotr",
+   "url": "https://github.com/kubos5/spotr",
+   "text": "A better Spotify client, for the terminal.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "walls",
+   "url": "https://github.com/kubos5/walls",
+   "text": "wallpapers",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "omarchy-home-assistant",
+   "url": "https://github.com/kubos5/omarchy-home-assistant",
+   "text": "Home Assistant in the Omarchy bar",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "kubos5",
+   "url": "https://github.com/kubos5/kubos5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "omarchy-drawer",
+   "url": "https://github.com/kubos5/omarchy-drawer",
+   "text": "Plugin drawer for the Omarchy menu bar",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  }
+ ]
+}
