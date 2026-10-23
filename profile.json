@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "login": "kubos5",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "wave",
+    "projects",
+    "stack",
+    "stats",
+    "socials",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "socials",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "hey!! i'm",
+    "name": "",
+    "subtitle": "i do stuff",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "italy"
+      },
+      {
+        "icon": "person_text",
+        "label": "he/him"
+      },
+      {
+        "icon": "code",
+        "label": "rust - swift - js - py"
+      }
+    ]
+  },
+  "about": {
+    "title": "abt me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "14 yo. student & dev"
+      },
+      {
+        "icon": "code",
+        "label": "mainly frontend"
+      },
+      {
+        "icon": "favorite",
+        "label": "... yes i also use ai"
+      }
+    ]
+  },
+  "stack": {
+    "title": "what i use",
+    "groups": [
+      {
+        "title": "know well",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "python"
+          },
+          {
+            "icon": "brand:swift",
+            "label": "swift"
+          }
+        ]
+      },
+      {
+        "title": "bit less",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "javascript"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "rust"
+          }
+        ]
+      },
+      {
+        "title": "tools",
+        "items": [
+          {
+            "icon": "brand:github",
+            "label": "github <3"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "arch (btw)"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "hyprland"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "BCW",
+      "spotr"
+    ],
+    "overrides": {
+      "BCW": {
+        "icon": "book_ribbon",
+        "text": "classeviva client in material 3 expressive"
+      },
+      "spotr": {
+        "text": "tui spotify client mate in rust"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "fork"
+  },
+  "stats": {
+    "title": "gh activity",
+    "stars": "stars",
+    "contributions": "contribs",
+    "repos": "repos",
+    "followers": "followers",
+    "calendar": "last 21d",
+    "weekdays": "smtwtfs",
+    "languages": "languages",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@kubos_011"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1073614527792418997"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/profiles/76561199561842572/"
+      }
+    ],
+    "variant": "icon",
+    "fill": "filled",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
