@@ -21,7 +21,7 @@ things I DON'T like doing:
 - writing READMEs about myself
 
 ### contact me
-Please don't... but if you have to, you can write to `romeo.ca1211@gmail.com`.
+please don't... but if you have to, you can write to `romeo.ca1211@gmail.com`
 
 <!--
 **kubos5/kubos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
