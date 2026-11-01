@@ -1,7 +1,7 @@
 {
- "key": "16573b45",
+ "key": "3271a0cf",
  "stars": 6,
- "contributions": 317,
+ "contributions": 325,
  "repos": 12,
  "followers": 1,
  "languages": [
@@ -10,12 +10,12 @@
    2154166
   ],
   [
-   "JavaScript",
-   752937
+   "Rust",
+   885662
   ],
   [
-   "Rust",
-   657917
+   "JavaScript",
+   752937
   ],
   [
    "CSS",
@@ -104,14 +104,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 31,
     "today": false
    }
   ],
   [
    {
-    "c": 0,
+    "c": 7,
     "day": 1,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 3,
   "longest": 19
  },
  "pins": [
