@@ -1,6 +1,6 @@
 {
- "key": "80214b01",
- "stars": 6,
+ "key": "f73bf040",
+ "stars": 7,
  "contributions": 331,
  "repos": 12,
  "followers": 1,
@@ -145,7 +145,7 @@
    "url": "https://github.com/kubos5/spotr",
    "text": "A better Spotify client, for the terminal.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": []
   },
@@ -206,6 +206,15 @@
    "topics": []
   },
   {
+   "name": "spotr",
+   "url": "https://github.com/kubos5/spotr",
+   "text": "A better Spotify client, for the terminal.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
    "name": "nxnative-refreshed",
    "url": "https://github.com/kubos5/nxnative-refreshed",
    "text": "nxnative for the Mac, refreshed: a full settings window, input mapping for 8 players, per-player rumble and motion",
@@ -239,15 +248,6 @@
    "fork": false,
    "stars": 0,
    "language": "Ruby",
-   "topics": []
-  },
-  {
-   "name": "spotr",
-   "url": "https://github.com/kubos5/spotr",
-   "text": "A better Spotify client, for the terminal.",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
    "topics": []
   },
   {
