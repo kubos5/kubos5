@@ -1,7 +1,7 @@
 {
- "key": "a1b0a15b",
- "stars": 7,
- "contributions": 345,
+ "key": "5a013e24",
+ "stars": 8,
+ "contributions": 346,
  "repos": 13,
  "followers": 1,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   1018280
+   1034349
   ],
   [
    "Rust",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 3,
+    "c": 4,
     "day": 8,
     "today": true
    },
@@ -185,6 +185,15 @@
    "topics": []
   },
   {
+   "name": "BCW-android",
+   "url": "https://github.com/kubos5/BCW-android",
+   "text": "Port su Android di BCW",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "BCW-api",
    "url": "https://github.com/kubos5/BCW-api",
    "text": "API per BCW, una migliore interfaccia per Classeviva",
@@ -200,15 +209,6 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "BCW-android",
-   "url": "https://github.com/kubos5/BCW-android",
-   "text": "Port su Android di BCW",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {
