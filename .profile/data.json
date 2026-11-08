@@ -1,5 +1,5 @@
 {
- "key": "75ac38a7",
+ "key": "a1b0a15b",
  "stars": 7,
  "contributions": 345,
  "repos": 13,
@@ -8,6 +8,10 @@
   [
    "Swift",
    2367037
+  ],
+  [
+   "Kotlin",
+   1018280
   ],
   [
    "Rust",
@@ -28,10 +32,6 @@
   [
    "Python",
    12785
-  ],
-  [
-   "Ruby",
-   2385
   ]
  ],
  "days": [
@@ -208,7 +208,7 @@
    "text": "Port su Android di BCW",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Kotlin",
    "topics": []
   },
   {
