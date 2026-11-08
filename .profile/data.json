@@ -1,8 +1,8 @@
 {
- "key": "f74a241",
+ "key": "75ac38a7",
  "stars": 7,
- "contributions": 344,
- "repos": 12,
+ "contributions": 345,
+ "repos": 13,
  "followers": 1,
  "languages": [
   [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 3,
     "day": 8,
     "today": true
    },
@@ -200,6 +200,15 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "BCW-android",
+   "url": "https://github.com/kubos5/BCW-android",
+   "text": "Port su Android di BCW",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
