@@ -1,7 +1,7 @@
 {
- "key": "41579512",
- "stars": 8,
- "contributions": 351,
+ "key": "eac8d5f7",
+ "stars": 10,
+ "contributions": 354,
  "repos": 13,
  "followers": 1,
  "languages": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 8,
     "day": 9,
     "today": true
    },
@@ -144,16 +144,16 @@
   {
    "name": "BCW",
    "url": "https://github.com/kubos5/BCW",
-   "text": "[🇮🇹] Classeviva, in Material Design nativo iOS",
+   "text": "[🇮🇹] Classeviva, in Material Design",
    "fork": false,
-   "stars": 3,
+   "stars": 4,
    "language": "Swift",
    "topics": []
   },
   {
    "name": "BCW-web",
    "url": "https://github.com/kubos5/BCW-web",
-   "text": "Un migliore client web per Classeviva",
+   "text": "[🇮🇹] Classeviva, in Material Design",
    "fork": false,
    "stars": 2,
    "language": "JavaScript",
@@ -173,28 +173,28 @@
   {
    "name": "BCW",
    "url": "https://github.com/kubos5/BCW",
-   "text": "[🇮🇹] Classeviva, in Material Design nativo iOS",
+   "text": "[🇮🇹] Classeviva, in Material Design",
    "fork": false,
-   "stars": 3,
+   "stars": 4,
    "language": "Swift",
-   "topics": []
-  },
-  {
-   "name": "BCW-web",
-   "url": "https://github.com/kubos5/BCW-web",
-   "text": "Un migliore client web per Classeviva",
-   "fork": false,
-   "stars": 2,
-   "language": "JavaScript",
    "topics": []
   },
   {
    "name": "BCW-android",
    "url": "https://github.com/kubos5/BCW-android",
-   "text": "Port su Android di BCW",
+   "text": "[🇮🇹] Classeviva, in Material Design",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "BCW-web",
+   "url": "https://github.com/kubos5/BCW-web",
+   "text": "[🇮🇹] Classeviva, in Material Design",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
    "topics": []
   },
   {
