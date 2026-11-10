@@ -1,5 +1,5 @@
 {
- "key": "30da7dcf",
+ "key": "9deeb795",
  "stars": 12,
  "contributions": 361,
  "repos": 13,
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   1104804
+   1106912
   ],
   [
    "Rust",
@@ -118,9 +118,13 @@
    {
     "c": 15,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
