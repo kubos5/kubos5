@@ -1,7 +1,7 @@
 {
- "key": "ac3f11ed",
+ "key": "f0198f2",
  "stars": 13,
- "contributions": 395,
+ "contributions": 398,
  "repos": 15,
  "followers": 1,
  "languages": [
@@ -31,7 +31,7 @@
   ],
   [
    "HTML",
-   129137
+   129083
   ]
  ],
  "days": [
@@ -118,9 +118,13 @@
    {
     "c": 10,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 19
  },
  "pins": [
